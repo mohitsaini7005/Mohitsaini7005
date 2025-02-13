@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohit Saini and I'm a Frontend, AI and Robotics Developer, from Sonipat, haryana, NCR</h2>
+<h2 align="left">Hi 👋! My name is Mohit Saini and I'm a  AI and Robotics Developer</h2>
 
 ###
 
