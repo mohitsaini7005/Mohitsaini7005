@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mohit Saini and I'm a Frontend, AI and Robotics Developer, from Sonipat, haryana, NCR</h2>
 
 ###
 
