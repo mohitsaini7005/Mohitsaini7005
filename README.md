@@ -134,10 +134,7 @@
   ###
   
   <p align="left">"I'm a passionate coder with a strong drive for innovation and problem-solving. With a track record of winning one hackathon and three national-level competitions, I thrive on exploring new technologies and pushing boundaries in programming and development. My expertise lies in crafting efficient solutions to complex challenges, always seeking to learn and create something extraordinary."</p>
-  📫 How to reach me **mohitsaini7005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VMU2ApAzUAzw4_ThgdMIo85Ie4Qf2PMX/view?usp=drive_link](https://drive.google.com/file/d/1VMU2ApAzUAzw4_ThgdMIo85Ie4Qf2PMX/view?usp=drive_link)
-  ###
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake.svg" />
