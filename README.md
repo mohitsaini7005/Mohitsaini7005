@@ -127,7 +127,6 @@
   
   
   <h2 align="left">🏆 Contribution Snake</h2>
-
    ---
   
   <picture>
