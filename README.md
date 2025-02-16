@@ -4,124 +4,117 @@
   
   ###
   
-  <h1 align="left">Hi 👋! My name is Mohit and I'm a Developer</h1>
-  
-  ###
-  
-  <h4 align="left">Currently working on my own Projects<br>Studying Computer Science Engineering at Kurukshetra University<br>Work as a Frontend, AI, Robotics Developer since 2023</h4>
-  
-  ###
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitsaini7005&show_icons=true&locale=en" alt="mohitsaini7005" /></p>
+  <h1 align="center">Hi 👋! I'm Mohit Saini! 🚀</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-saini-147a9223a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://github.com/mohitsaini7005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"  /></a>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7D731&center=true&vCenter=true&width=500&lines=Passionate+Developer+%7C+AI+Enthusiast;Building+Innovative+Tools;Automating+Systems;Exploring+Django%2C+Python%2C+AI%2c+Robotics;Let's+Code+Something+Awesome!" alt="Typing SVG" />
+</p>
   
-  <h1 align="left">Social Media Links:</h1>
-  
-  ###
-  
-  <br clear="both">
-  
-  <div align="left">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </div>
-  
-  ###
-  
-  <h1 align="left">Tech Stack:</h1>
+### 👨‍💻 About Me
+
+- 🎓 BCA Student | Passionate Developer | AI Enthusiast | Robotics Developer
+- 💡 I love building innovative tools and automating systems and Robots
+- 🚀 Exploring AI, Django, Python, and Robotics
+- 📌 Currently working on a **Real-Time Chat App with AI Integration**
+- 🌐 **Hackathon Winner 🏆** | **3x National Competition Champion 🎖️**
   
   ###
+  ## 🔧 Tech Stack
+
+### Languages & Frameworks
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+
+  ---
+
+## 🔥 Projects & Work
+
+### 🌟 **AI-Based Personal Health Monitor**
+- Uses AI to analyze health metrics and provide insights
+- Flask-based backend with a user-friendly interface
+
+### 🔹 **Real-Time Chat App with AI Integration**
+- Secure chat system with AI-powered responses
+- PIN-based authentication with media uploads to Google Drive
+
+### 📢 **Government Job Notification Platform**
+- AI-driven job matching system
+- Web crawlers fetch and analyze job postings
+
+[More Projects →](https://github.com/mohitsaini7005)
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitsaini7005&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsaini7005&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
+</p>
+
+---
+
+
+<h1 align="left">Tech Stack:</h1>
   
-  <br clear="both">
+
+---
   
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="74" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="74" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="74" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="74" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="74" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="74" alt="amazonwebservices logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="74" alt="aftereffects logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="74" alt="android logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="74" alt="androidstudio logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="74" alt="arduino logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="74" alt="azure logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="74" alt="c logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="74" alt="canva logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="74" alt="codepen logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="74" alt="cplusplus logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="74" alt="figma logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="74" alt="firebase logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="74" alt="flask logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="74" alt="github logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="74" alt="googlecloud logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="74" alt="java logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="74" alt="kotlin logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="74" alt="msdos logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="74" alt="opencv logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="74" alt="oracle logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="74" alt="photoshop logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="74" alt="php logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="74" alt="tensorflow logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="74" alt="unity logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="74" alt="vscode logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="74" alt="wordpress logo"  />
-  </div>
   
-  ###
+  ## 📫 Connect with Me
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Mohit Saini-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mohitsaini7005)
+  [![GitHub](https://img.shields.io/badge/GitHub-Mohit Saini-181717?style=for-the-badge&logo=github)](https://github.com/mohitsaini7005)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/Mohit Saini](https://www.linkedin.com/in/mohit-saini-147a9223a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+  [![Instagram](https://img.shields.io/badge/Instagram-@Mohit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_mohit_saini)
+  [![Twitter](https://img.shields.io/badge/Twitter-@Mohit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/its_mohit_saini)
+  [![Facebook](https://img.shields.io/badge/Facebook-@Mohit-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008719743795)
+  [![Telegram](https://img.shields.io/badge/Telegram-@Mohit-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/its_mohit_saini)
+  [![YouTube](https://img.shields.io/badge/YouTube-@Mohit-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_mohit_saini)
+  [![Discord](https://img.shields.io/badge/Discord-@Mohit-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/its_mohit_saini)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-@Mohit-1DA1F2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210)
   
-  <h1 align="left">Communicate With Me:</h1>
   
-  ###
-  
-  <div align="left">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="codepen logo"  />
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="35" alt="paypal logo"  />
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
-  </div>
-  
+  ---
+
   ###
   
   
@@ -135,12 +128,16 @@
   
   <p align="left">"I'm a passionate coder with a strong drive for innovation and problem-solving. With a track record of winning one hackathon and three national-level competitions, I thrive on exploring new technologies and pushing boundaries in programming and development. My expertise lies in crafting efficient solutions to complex challenges, always seeking to learn and create something extraordinary."</p>
 
+  ---
+
+  ## 🏆 Contribution Snake
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake.svg" />
   </picture>
   
-
+  ⭐ **If you like my work, consider giving a star to my repositories!** ⭐
   
   
