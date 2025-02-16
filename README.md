@@ -26,7 +26,7 @@
 ---
 
   <h1 align="left">🔧 Tech Stack</h1>
-  
+
 ### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -124,7 +124,7 @@
 
   
    🏆 Contribution Snake
----
+###
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake.svg" />
