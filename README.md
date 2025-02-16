@@ -25,7 +25,7 @@
 
 ---
 
-  <h1 align="left">👨🔧 Tech Stack</h1>
+  <h1 align="left">🔧 Tech Stack</h1>
 ### Languages & Frameworks
 
 
@@ -88,12 +88,6 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsaini7005&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
 </p>
-
-
-
-##
-
-  
 
 ---
   
