@@ -130,7 +130,7 @@
 <br>
 
 
- ## 🧑‍💻 Technical Knowledge
+### 🧑‍💻 Technical Knowledge
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="73" alt="html5 logo"  /><img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="73" alt="css3 logo"  /><img width="12" />
@@ -144,7 +144,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="73" alt="c logo"  /><img width="12" />
   
   <h2 align="left">🏆 Contribution Snake</h2>
-  ---
+  <br>
   ###
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake-dark.svg" />
