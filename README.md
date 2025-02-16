@@ -101,6 +101,14 @@
     <a href="https://t.me/@Mohitsaini420"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://wa.me/9485501077"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   </p>
+
+  ## 📫 Social Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pardeep.tech-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mohitsaini7005)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohitsaini7005-181717?style=for-the-badge&logo=github)](https://github.com/mohitsaini7005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/pardeep](https://www.linkedin.com/in/mohit-saini-147a9223a/))
+[![Instagram](https://img.shields.io/badge/Instagram-@Mohit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_mohit_saini/)
+
   
   ---
 
