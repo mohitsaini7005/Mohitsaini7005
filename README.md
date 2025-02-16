@@ -128,8 +128,7 @@
   
   <h2 align="left">🏆 Contribution Snake</h2>
 
-  ##
-
+###
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake.svg" />
