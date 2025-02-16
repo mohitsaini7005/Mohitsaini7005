@@ -2,7 +2,7 @@
     <img height="200" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif"  />
   </div>
   
-  ##
+  
   
   <h1 align="center">Hi 👋! I'm Mohit Saini! 🚀</h1>
 
@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7D731&center=true&vCenter=true&width=500&lines=Passionate+Developer+%7C+AI+Enthusiast;Building+Innovative+Tools;Automating+Systems;Exploring+Django%2C+Python%2C+AI%2c+Robotics;Let's+Code+Something+Awesome!" alt="Typing SVG" />
 </p>
   
-##
+
 ---
 <h1 align="left">👨‍💻 About Me</h1>
 
