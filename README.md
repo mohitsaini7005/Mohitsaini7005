@@ -2,7 +2,7 @@
     <img height="200" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif"  />
   </div>
   
-  ###
+  ##
   
   <h1 align="center">Hi 👋! I'm Mohit Saini! 🚀</h1>
 
@@ -16,8 +16,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7D731&center=true&vCenter=true&width=500&lines=Passionate+Developer+%7C+AI+Enthusiast;Building+Innovative+Tools;Automating+Systems;Exploring+Django%2C+Python%2C+AI%2c+Robotics;Let's+Code+Something+Awesome!" alt="Typing SVG" />
 </p>
   
-### 
-
+##
+---
 <h1 align="left">👨‍💻 About Me</h1>
 
 - 🎓 BCA Student | Passionate Developer | AI Enthusiast | Robotics Developer
@@ -25,10 +25,11 @@
 - 🚀 Exploring AI, Django, Python, and Robotics
 - 📌 Currently working on a **Real-Time Chat App with AI Integration**
 - 🌐 **Hackathon Winner 🏆** | **3x National Competition Champion 🎖️**
-  
-  
-  ## 🔧 Tech Stack
 
+
+---
+## 
+  <h1 align="left">👨🔧 Tech Stack</h1>
 ### Languages & Frameworks
 
 
@@ -65,7 +66,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 
-  ---
+---
 
 ## 🔥 Projects & Work
 
@@ -92,10 +93,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsaini7005&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
 </p>
 
----
 
 
-<h1 align="left">Tech Stack:</h1>
+##
+
   
 
 ---
@@ -128,14 +129,11 @@
   
   <p align="left">"I'm a passionate coder with a strong drive for innovation and problem-solving. With a track record of winning one hackathon and three national-level competitions, I thrive on exploring new technologies and pushing boundaries in programming and development. My expertise lies in crafting efficient solutions to complex challenges, always seeking to learn and create something extraordinary."</p>
 
-  ---
+  
 
   <br>
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
+---
   
   ## 🏆 Contribution Snake
 
