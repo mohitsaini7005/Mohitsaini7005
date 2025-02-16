@@ -1,11 +1,7 @@
 <div align="center">
     <img height="200" src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif"  />
-  </div>
-  
-  
-  
-  <h1 align="center">Hi 👋! I'm Mohit Saini! 🚀</h1>
-
+  </div> 
+<h1 align="center">Hi 👋! I'm Mohit Saini! 🚀</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-saini-147a9223a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://github.com/mohitsaini7005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25" alt="github logo"  /></a>
