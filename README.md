@@ -104,7 +104,7 @@
 
   ## 📫 Social Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pardeep.tech-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mohitsaini7005)<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mohit.tech-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mohitsaini7005)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-Mohitsaini7005-181717?style=for-the-badge&logo=github)](https://github.com/mohitsaini7005)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/pardeep](https://www.linkedin.com/in/mohit-saini-147a9223a/))<br>
 [![Instagram](https://img.shields.io/badge/Instagram-@Mohit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_mohit_saini/)
