@@ -125,10 +125,6 @@
 
   
 
-  <br>
-  <br>
-  <br>
-  <br>
 
 ###
  <h2 align="left">🧑‍💻 Technical Knowledge</h2>
