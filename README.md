@@ -121,9 +121,13 @@
 
   <br>
   <br>
-
+  <br>
+  <br>
   
-  ## 🏆 Contribution Snake
+  
+   🏆 Contribution Snake
+
+  ---
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitsaini7005/mohitsaini7005/output/github-snake-dark.svg" />
