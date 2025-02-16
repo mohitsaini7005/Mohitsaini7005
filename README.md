@@ -16,7 +16,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F7D731&center=true&vCenter=true&width=500&lines=Passionate+Developer+%7C+AI+Enthusiast;Building+Innovative+Tools;Automating+Systems;Exploring+Django%2C+Python%2C+AI%2c+Robotics;Let's+Code+Something+Awesome!" alt="Typing SVG" />
 </p>
   
-### 👨‍💻 About Me
+### 
+
+<h1 align="left">👨‍💻 About Me</h1>
 
 - 🎓 BCA Student | Passionate Developer | AI Enthusiast | Robotics Developer
 - 💡 I love building innovative tools and automating systems and Robots
@@ -24,7 +26,7 @@
 - 📌 Currently working on a **Real-Time Chat App with AI Integration**
 - 🌐 **Hackathon Winner 🏆** | **3x National Competition Champion 🎖️**
   
-  ###
+  
   ## 🔧 Tech Stack
 
 ### Languages & Frameworks
@@ -87,7 +89,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitsaini7005&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsaini7005&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsaini7005&show_icons=true&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
 </p>
 
 ---
@@ -101,17 +103,15 @@
   
   ## 📫 Connect with Me
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Mohit Saini-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mohitsaini7005)
-  [![GitHub](https://img.shields.io/badge/GitHub-Mohit Saini-181717?style=for-the-badge&logo=github)](https://github.com/mohitsaini7005)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/Mohit Saini](https://www.linkedin.com/in/mohit-saini-147a9223a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-  [![Instagram](https://img.shields.io/badge/Instagram-@Mohit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_mohit_saini)
-  [![Twitter](https://img.shields.io/badge/Twitter-@Mohit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/its_mohit_saini)
-  [![Facebook](https://img.shields.io/badge/Facebook-@Mohit-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008719743795)
-  [![Telegram](https://img.shields.io/badge/Telegram-@Mohit-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/its_mohit_saini)
-  [![YouTube](https://img.shields.io/badge/YouTube-@Mohit-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_mohit_saini)
-  [![Discord](https://img.shields.io/badge/Discord-@Mohit-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/its_mohit_saini)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-@Mohit-1DA1F2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919876543210)
-  
+  <p align="left">
+    <a href="https://www.linkedin.com/in/mohit-saini-147a9223a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="mailto:mohitsaini7005@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.instagram.com/its_mohit_saini/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://t.me/@Mohitsaini420"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://wa.me/9485501077"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  </p>
   
   ---
 
@@ -130,6 +130,13 @@
 
   ---
 
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
   ## 🏆 Contribution Snake
 
   <picture>
