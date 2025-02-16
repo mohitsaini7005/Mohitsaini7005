@@ -124,12 +124,16 @@
   <p align="left">"I'm a passionate coder with a strong drive for innovation and problem-solving. With a track record of winning one hackathon and three national-level competitions, I thrive on exploring new technologies and pushing boundaries in programming and development. My expertise lies in crafting efficient solutions to complex challenges, always seeking to learn and create something extraordinary."</p>
 
   
+<br>
+<br>
+<br>
+<br>
 
 
-###
- <h2 align="left">🧑‍💻 Technical Knowledge</h2>
+<h2 align="left">🧑‍💻 Technical Knowledge</h2>
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="73" alt="html5 logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 <img width="12" />
