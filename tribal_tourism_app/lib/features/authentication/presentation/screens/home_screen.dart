@@ -6,6 +6,8 @@ import '../../../../core/theme/app_theme.dart';
 import '../../../../core/constants/app_constants.dart';
 import '../../../../shared/widgets/gradient_button.dart';
 import '../../../trips/presentation/screens/trips_screen.dart';
+import '../../../marketplace/presentation/screens/marketplace_screen.dart';
+import '../../../events/presentation/screens/events_screen.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {
   const HomeScreen({super.key});
@@ -504,21 +506,11 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
   }
 
   Widget _buildShopTab() {
-    return const Center(
-      child: Text(
-        'Shop Tab - Coming Soon!',
-        style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
-      ),
-    );
+    return const MarketplaceScreen();
   }
 
   Widget _buildEventsTab() {
-    return const Center(
-      child: Text(
-        'Events Tab - Coming Soon!',
-        style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
-      ),
-    );
+    return const EventsScreen();
   }
 
   Widget _buildProfileTab() {
