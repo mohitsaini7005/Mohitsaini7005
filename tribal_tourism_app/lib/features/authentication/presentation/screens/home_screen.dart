@@ -5,6 +5,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 import '../../../../core/theme/app_theme.dart';
 import '../../../../core/constants/app_constants.dart';
 import '../../../../shared/widgets/gradient_button.dart';
+import '../../../trips/presentation/screens/trips_screen.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {
   const HomeScreen({super.key});
@@ -499,12 +500,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
   }
 
   Widget _buildTripsTab() {
-    return const Center(
-      child: Text(
-        'Trips Tab - Coming Soon!',
-        style: TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
-      ),
-    );
+    return const TripsScreen();
   }
 
   Widget _buildShopTab() {
